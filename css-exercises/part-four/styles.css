@@ -1,0 +1,11 @@
+/* styles */
+
+.avatar.proportioned {
+    width: 300;
+    height: auto;
+}
+
+.avatar.distored {
+    width: 200;
+    height: 400;
+}
